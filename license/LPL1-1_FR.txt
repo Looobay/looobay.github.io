@@ -29,8 +29,9 @@ Les deux parties s'engagent à respecter les points suivants :
 	5c. Le Licencié est responsable de la Version dérivée et de la distribution de la Version dérivée.
 
 6. Crédits et mention de l'auteur :
-	6a. Vous ne pouvez pas utiliser le nom de l'Auteur sans le consentement écrit préalable de l'Auteur dans votre Version dérivée.
-	6b. Le nom de l'Auteur ne peut pas être utilisé dans des publicités ou autrement pour promouvoir la vente, l'utilisation ou d'autre transaction dans la Version dérivée sans le consentement écrit préalable de l'Auteur.
+	6a. Si vous utilisez du code sous cette même Licence vous devez de créditer tous les projets sous licence LPL 1.1.
+	6b. Vous ne pouvez pas utiliser le nom de l'Auteur sans le consentement écrit préalable de l'Auteur dans votre Version dérivée.
+	6c. Le nom de l'Auteur ne peut pas être utilisé dans des publicités ou autrement pour promouvoir la vente, l'utilisation ou d'autre transaction dans la Version dérivée sans le consentement écrit préalable de l'Auteur.
 
 7. Contributions :
 	7a. Toutes les contributions (modifications ou ajouts au logiciel) sont placées sous la Licence actuelle.

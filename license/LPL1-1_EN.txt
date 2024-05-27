@@ -29,8 +29,9 @@ Both parties agree to abide by the following terms:
     5c. The Licensee is responsible for the Derived Version and the distribution of the Derived Version.
 
 6. Credits and author's mention:
-    6a. You may not use the Author's name without the Author's prior written consent in your Derived Version.
-    6b. The Author's name may not be used in advertisements or otherwise to promote the sale, use, or other transactions in the Derived Version without the Author's prior written consent.
+    6a. If you use code under this same License you must credit all projects under the LPL 1.1 license.
+    6b. You may not use the Author's name without the Author's prior written consent in your Derived Version.
+    6c. The Author's name may not be used in advertisements or otherwise to promote the sale, use, or other transactions in the Derived Version without the Author's prior written consent.
 
 7. Contributions:
     7a. All contributions (modifications or additions to the software) are placed under the Looobay Public License 1.1 (LPL-1.1).
