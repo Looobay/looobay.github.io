@@ -1,0 +1,44 @@
+Looobay Public License 1.1 (LPL-1.1)
+
+Copyright (C) [year]-Present [Your name], [Your country]
+
+BY USING OR DOWNLOADING THE SOFTWARE AND/OR ASSOCIATED FILES (the "Software"), YOU ACCEPT THIS AGREEMENT.
+
+This license (the "License") is a contract between you (the "Licensee" or "You") and the author(s) of the Software (the "Author").
+
+Both parties agree to abide by the following terms:
+
+1. Scope of the license:
+    This license applies to any software, with freely accessible source code, that the Author distributes the License with the Software.
+
+2. Rights granted to users:
+    2a. You have the non-exclusive, worldwide, free, and non-transferable right to:
+    2b. Use, reproduce, copy, and modify the Software,
+    2c. Publish, distribute, and sell a modified version of the Software (the "Derived Version"), provided that the Derived Version includes this agreement and that the copyright remains intact.
+
+3. Restrictions:
+    3a. You may not sell the original Software without the prior written consent of the Author.
+    3b. If you sell the Software, you must include this written consent with the Software.
+
+4. Duration:
+    4a. The contract remains in effect unless terminated by the Licensee or the Author for non-compliance with the terms.
+
+5. Responsibilities:
+    5a. The Software is distributed "as is" without any warranty of any kind.
+    5b. Under no circumstances can the Author be held liable for any claim, damage, or other liability arising from the use of the Software.
+    5c. The Licensee is responsible for the Derived Version and the distribution of the Derived Version.
+
+6. Credits and author's mention:
+    6a. You may not use the Author's name without the Author's prior written consent in your Derived Version.
+    6b. The Author's name may not be used in advertisements or otherwise to promote the sale, use, or other transactions in the Derived Version without the Author's prior written consent.
+
+7. Contributions:
+    7a. All contributions (modifications or additions to the software) are placed under the Looobay Public License 1.1 (LPL-1.1).
+
+8. General provisions:
+    8a. The License may be modified at any time by the Author. The Author must inform users of the modification to the License. Users are required to comply with the latest version of the license when using or distributing the software.
+    8b. You may not assign this contract without the Author's written consent.
+    8c. If any provision of the contract is found to be invalid, the others remain in effect.
+    8d. The Author's local law governs the contract.
+
+By accepting this license, you agree to abide by these terms and conditions for the use of the Author's Software.

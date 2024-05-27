@@ -1,0 +1,44 @@
+Licence Publique Looobay 1.1 (LPL-1.1)
+
+Copyright (C) [année]-Présent [Votre nom], [Votre pays]
+
+EN UTILISANT OU EN TÉLÉCHARGEANT LE LOGICIEL ET/OU LES FICHIERS ASSOCIÉS (le "Logiciel"), VOUS ACCEPTEZ CE CONTRAT.
+
+Cette licence (la "Licence") est un contrat entre vous (le "Licencié" ou "Vous") et le(s) auteur(s) du Logiciel (l'"Auteur").
+
+Les deux parties s'engagent à respecter les points suivants :
+
+1. Portée de la licence :
+	Cette licence s'applique à tout logiciel, avec le code source accessible gratuitement, dont l'Auteur distribue la Licence avec le Logiciel.
+
+2. Droits accordés aux utilisateurs :
+	2a. Vous avez le droit non-exclusif, mondial, gratuit et non-transférable de :
+	2b. Utiliser, reproduire, copier et modifier le Logiciel,
+	2c. Publier, distribuer et vendre une version modifiée du Logiciel (la "Version dérivée"), à condition que la Version dérivée inclue ce contrat et que les droits d'auteur restent préservés.
+
+3. Restrictions :
+	3a. Vous ne pouvez pas vendre le Logiciel d'origine, sans le consentement écrit préalable de l'Auteur,
+	3b. si vous vendez le Logiciel, alors, vous devez inclure ce consentement écrit avec le Logiciel.
+
+4. Durée :
+	4a. Le contrat reste en vigueur à moins d'être résilié par le Licencié ou l'Auteur pour non-respect des termes.
+
+5. Responsabilités :
+	5a. Le Logiciel est distribué "tel que" sans garantie d'aucune sorte.
+	5b. En aucun cas l'Auteur peut être tenu responsables de toute réclamation, dommage ou autre responsabilité, découlant de l'utilisation du Logiciel.
+	5c. Le Licencié est responsable de la Version dérivée et de la distribution de la Version dérivée.
+
+6. Crédits et mention de l'auteur :
+	6a. Vous ne pouvez pas utiliser le nom de l'Auteur sans le consentement écrit préalable de l'Auteur dans votre Version dérivée.
+	6b. Le nom de l'Auteur ne peut pas être utilisé dans des publicités ou autrement pour promouvoir la vente, l'utilisation ou d'autre transaction dans la Version dérivée sans le consentement écrit préalable de l'Auteur.
+
+7. Contributions :
+	7a. Toutes les contributions (modifications ou ajouts au logiciel) sont placées sous la Licence actuelle.
+
+8. Dispositions générales :
+	8a. La Licence peut être modifié à tout moment par l'Auteur. L'auteur doit informer les utilisateurs de la modification de la Licence. Les utilisateurs sont tenus de se conformer à la version la plus récente de la licence.
+	8b. Vous ne pouvez pas céder ce contrat sans le consentement écrit de l'Auteur.
+	8c. Si une disposition du contrat est jugée invalide, les autres restent en vigueur.
+	8d. La loi locale de l'Auteur régit le contrat.
+
+En acceptant cette licence, vous vous engagez à respecter ces termes et conditions pour l'utilisation du Logiciel de l'Auteur.
