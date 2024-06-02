@@ -1,0 +1,45 @@
+Licence Publique Looobay 2.0 (LPL-2.0)
+
+Copyright (C) 2024, Looobay
+
+EN UTILISANT, EN TÉLÉCHARGEANT OU EN PARTAGEANT L'ŒUVRE ET/OU LES FICHIERS ASSOCIÉS (l'"Œuvre"), VOUS ACCEPTEZ CETTE LICENCE (la "Licence").
+
+Cette licence est un contrat entre vous ("Vous") et le(s) auteur(s) de l'Œuvre (l'"Auteur").
+
+Les deux parties s'engagent à respecter les clauses suivantes:
+
+1) Vos droits
+	1a) Vous avez le droit d'utiliser, reproduire, copier et modifier l'Œuvre.
+	1b) Vous pouvez publier, distribuer et vendre une version modifiée de l'Œuvre (la "Version dérivée"), à condition que les droits d'auteur soient inclus et que la Version dérivée soit régie par cette Licence.
+
+2) Portée de la licence
+	2a) Cette licence s'applique à toute œuvre dont l'Auteur inclut cette Licence et informe l'utilisateur que l'œuvre est régie par cette Licence.
+	2b) Si l'œuvre est un logiciel, l'Auteur doit permettre l'accès gratuit et direct au code source sans aucune obstruction.
+
+3) Restrictions
+	3a) Vous ne pouvez pas vendre l'Œuvre originale sans modifications.
+
+4) Durée
+	4a) Le contrat reste en vigueur à moins d'être résilié par le Licencié ou l'Auteur pour non-respect des termes.
+
+5) Responsabilités
+	5a) L'Œuvre est distribuée "tel quel" sans garantie d'aucune sorte.
+	5b) En aucun cas, l'Auteur ne peut être tenu responsable de toute réclamation, dommage ou autre responsabilité découlant de l'utilisation de l'Œuvre.
+	5c) Vous êtes responsable de la Version dérivée et de sa distribution si vous en produisez une.
+
+6) Crédits et mention de l'auteur
+	6a) Si vous utilisez l'Œuvre, vous devez en informer l'utilisateur ou le spectateur.
+	6b) Le nom de l'Auteur ne peut pas être utilisé dans des publicités ou autrement pour promouvoir la vente, l'utilisation ou toute autre transaction concernant la Version dérivée.
+
+7) Contributions
+	7a) La clause suivante (7b) s'applique uniquement si l'Œuvre est un logiciel.
+	7b) Toutes les contributions (modifications ou ajouts à l'Œuvre) sont placées sous la Licence actuelle.
+
+8) Dispositions générales
+	8a) Si une disposition du contrat est jugée invalide, les autres restent en vigueur.
+
+9) Compatibilité avec d'autres licences
+	9a) La clause suivante (9b) s'applique uniquement si l'Œuvre est soit un logiciel soit un médium permettant la combinaison avec d'autres projets.
+	9b) Vous avez le droit de combiner l'Œuvre avec d'autres projets, programmes ou de la fusionner avec d'autres programmes.
+
+En acceptant cette licence, vous vous engagez à respecter ces termes et conditions.

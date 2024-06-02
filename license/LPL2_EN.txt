@@ -1,0 +1,45 @@
+Looobay Public License 2.0 (LPL-2.0)
+
+Copyright (C) 2024, Looobay
+
+BY USING, DOWNLOADING, OR SHARING THE WORK AND/OR ASSOCIATED FILES (the “Work”), YOU AGREE TO THIS LICENSE (the “License”).
+
+This license is a contract between you (“You”) and the author(s) of the Work (the “Author”).
+
+Both parties undertake to respect the following clauses:
+
+1) Your rights
+  1a) You have the right to use, reproduce, copy and modify the Work.
+  1b) You may publish, distribute and sell a modified version of the Work (the "Derivative Version"), provided that the copyright is included and the Derivative Version is governed by this License.
+
+2) Scope of the license
+  2a) This license applies to any work whose Author includes this License and informs the user that the work is governed by this License.
+  2b) If the work is software, the Author must allow free and direct access to the source code without any obstruction.
+
+3) Restrictions
+  3a) You may not sell the original Work without modifications.
+
+4) Duration
+  4a) The contract remains in force unless terminated by the Licensee or the Author for non-compliance with the terms.
+
+5) Responsibilities
+  5a) The Work is distributed “as is” without warranty of any kind.
+  5b) Under no circumstances can the Author be held responsible for any claim, damage or other liability arising from the use of the Work.
+  5c) You are responsible for the Derivative Version and its distribution if you produce one.
+
+6) Credits and author mention
+  6a) If you use the Work, you must inform the user or viewer.
+  6b) The name of the Author may not be used in advertisements or otherwise to promote the sale, use or other dealings with respect to the Derivative Version.
+
+7) Contributions
+  7a) The following clause (7b) only applies if the Work is software.
+  7b) All contributions (modifications or additions to the Work) are placed under the current License.
+
+8) General provisions
+  8a) If any provision of the contract is found to be invalid, the others remain in force.
+
+9) Compatibility with other licenses
+  9a) The following clause (9b) only applies if the Work is either software or a medium allowing combination with other projects.
+  9b) You have the right to combine the Work with other projects, programs or merge it with other programs.
+
+By accepting this license, you agree to comply with these terms and conditions.
