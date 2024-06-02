@@ -1,44 +1,48 @@
 Looobay Public License 1.1 (LPL-1.1)
 
-Copyright (C) 2024-Present Looobay, France
+Copyright (C) 2024-Present, Looobay
 
-BY USING OR DOWNLOADING THE SOFTWARE AND/OR ASSOCIATED FILES (the "Software"), YOU ACCEPT THIS AGREEMENT.
+BY USING OR DOWNLOADING THE SOFTWARE AND/OR ASSOCIATED FILES (the “Software”), YOU AGREE TO THIS AGREEMENT.
 
-This license (the "License") is a contract between you (the "Licensee" or "You") and the author(s) of the Software (the "Author").
+This license (the “License”) is a contract between you (the “Licensee” or “You”) and the author(s) of the Software (the “Author”).
 
-Both parties agree to abide by the following terms:
+Both parties undertake to respect the following points:
 
-1. Scope of the license:
-    This license applies to any software, with freely accessible source code, that the Author distributes the License with the Software.
+1. Scope of License:
+  This license applies to any software, with the source code freely accessible, for which the Author distributes the License with the Software.
 
 2. Rights granted to users:
-    2a. You have the non-exclusive, worldwide, free, and non-transferable right to:
-    2b. Use, reproduce, copy, and modify the Software,
-    2c. Publish, distribute, and sell a modified version of the Software (the "Derived Version"), provided that the Derived Version includes this agreement and that the copyright remains intact.
+  2a. You have the non-exclusive, worldwide, free and non-transferable right to:
+  2b. Use, reproduce, copy and modify the Software,
+  2c. Publish, distribute and sell a modified version of the Software (the "Derivative Version"), provided that the Derivative Version is governed by this License or the GNU GPLv3 license and the copyright is preserved.
 
 3. Restrictions:
-    3a. You may not sell the original Software without the prior written consent of the Author.
-    3b. If you sell the Software, you must include this written consent with the Software.
+  3a. You may not sell the original Software without the prior written consent of the Author.
+  3b. If you sell the Software, then you must include this written consent with the Software.
 
 4. Duration:
-    4a. The contract remains in effect unless terminated by the Licensee or the Author for non-compliance with the terms.
+  4a. The contract remains in force unless terminated by the Licensee or the Author for non-compliance with the terms.
 
 5. Responsibilities:
-    5a. The Software is distributed "as is" without any warranty of any kind.
-    5b. Under no circumstances can the Author be held liable for any claim, damage, or other liability arising from the use of the Software.
-    5c. The Licensee is responsible for the Derived Version and the distribution of the Derived Version.
+  5a. The Software is distributed “as is” without warranty of any kind.
+  5b. Under no circumstances can the Author be held responsible for any claim, damage or other liability arising from the use of the Software.
+  5c. Licensee is responsible for the Derivative Version and the distribution of the Derivative Version.
 
-6. Credits and author's mention:
-    6a. You may not use the Author's name without the Author's prior written consent in your Derived Version.
-    6b. The Author's name may not be used in advertisements or otherwise to promote the sale, use, or other transactions in the Derived Version without the Author's prior written consent.
+6. Credits and author attribution:
+  6a. If you use code under this same License you must credit any projects licensed under LPL 1.1 or future LPL licenses that you use.
+  6b. You may not use the name of the Author and contributors without the prior written consent of the Author and/or contributors in your Derivative Version.
+  6c. The name of the Author may not be used in advertisements or otherwise to promote the sale, use or other dealings in the Derivative Version without the prior written consent of the Author.
 
 7. Contributions:
-    7a. All contributions (modifications or additions to the software) are placed under the Looobay Public License 1.1 (LPL-1.1).
+  7a. All contributions (modifications or additions to the software) are placed under the current License.
 
 8. General provisions:
-    8a. The License may be modified at any time by the Author. The Author must inform users of the modification to the License. Users are required to comply with the latest version of the license when using or distributing the software.
-    8b. You may not assign this contract without the Author's written consent.
-    8c. If any provision of the contract is found to be invalid, the others remain in effect.
-    8d. The Author's local law governs the contract.
+  8a. The author may reserve the right to replace this license with a more recent LPL license, in which case users should be notified.
+  8c. You may not assign this agreement without the written consent of the Author.
+  8d. If any provision of the contract is found to be invalid, the others remain in force.
 
-By accepting this license, you agree to abide by these terms and conditions for the use of the Author's Software.
+9. Compatibility with other licenses:
+  9a. You have the right to combine the Software into another project, to combine the Software with other programs and to merge the Software with other programs.
+  9b. The Author reserves the right to lift the restriction on the sale of the original Software (3a) if he clearly indicates it in this way below the Copyright in the license: "I, [Name of the Author] lifts the restriction in clause 3a of the Looobay Public License, which is a right reserved to me by clause 9b of the license, so you have the right to sell the original Software.".
+
+By accepting this license, you agree to comply with these terms and conditions for the use of the Author's Software.
